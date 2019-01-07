@@ -1,6 +1,6 @@
 {
   "name": "text-to-array",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "To Convert from text to array",
   "main": "app.js",
   "scripts": {
