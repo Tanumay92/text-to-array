@@ -13,14 +13,14 @@ console.log(dataArray); // dataArray of file
 ```
 
 
-##i.e
-###The text file should be in form of key-value pair. 
-####example : 
-#####key1 : value1
-#####key2 : value2
-#####key3 : value3
+## i.e
+### The text file should be in form of key-value pair. 
+#### example : 
+##### key1 : value1
+##### key2 : value2
+##### key3 : value3
 
 ## Author
-####Tanumay Ghosh
+#### Tanumay Ghosh
 
 ```
