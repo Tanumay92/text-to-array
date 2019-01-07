@@ -13,11 +13,16 @@ var dataArray = textToArray.getArray(path); // Path of the text File
 console.log(dataArray); // dataArray of file
 ```
 
-### i.e.
-The text file should be in form of key-value pair. 
-example : 
+``` html
+<h3>i.e</h3>
+<b>The text file should be in form of key-value pair.</b><br/> 
+example : <br/>
   
-  key1 : value1
-  key2 : value2
-  key3 : value3
+  <b>key1</b> : value1<br/>
+  <b>key2</b> : value2<br/>
+  <b>key3</b> : value3<br/>
 
+<h3> Author</h3><br/>
+<b>Tanumay Ghosh</b><br/>
+
+```
